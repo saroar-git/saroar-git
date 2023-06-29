@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👨‍💻 All of my projects are available at [https://remarkable-empanada-d7e637.netlify.app/](https://saroar-jahan.netlify.app/)
+- 👨‍💻 All of my projects are available at [Porifolio](https://saroar-jahan.netlify.app/)
 
 - 💬 Ask me about **React, Tailwind, Express.js, Node.js, MongoDB**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing](https://tinyurl.com/saroar-resume)
+- 📄 Know about my experiences [Resume]([https://tinyurl.com/saroar-resume](https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
