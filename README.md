@@ -1,6 +1,5 @@
 ![A MERN-Stack Web Developer_](https://i.ibb.co/qpNPmc7/page-1.jpg)
 
-6/29/2023, 8:32:56 PM
 
 I'm a MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Let's collaborate on your next project!
 
