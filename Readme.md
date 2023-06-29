@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Tailwind, Express.js, Node.js, MongoDB**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing]([https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing](https://tinyurl.com/saroar-resume))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing](https://tinyurl.com/saroar-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
