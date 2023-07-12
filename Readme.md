@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Let's collaborate on your next project!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
 - 🌱 I’m currently learning **NEXT.JS**
 
