@@ -23,10 +23,8 @@
 </div>
 
 <br>
-
-
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
-
+<br> <br>
 
 ## Technologies I know:
 
@@ -55,10 +53,14 @@
 <br>
 
 ##
+<div align="center" >
+<div>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saroar-git&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saroar-git&theme=aura_dark)
+</div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saroar-git&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="saroar-git" /></p>
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saroar-git&theme=aura_dark)
+</div>
 
-##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saroar-git&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="saroar-git" /></p>
