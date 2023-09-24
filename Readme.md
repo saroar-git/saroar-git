@@ -20,10 +20,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- | <a href="https://www.linkedin.com/in/saroar-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saroar Jahan" height="30" width="40" /></a> |  <a href="https://discord.com/channels/@saroarjahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saroar Jahan" height="30" width="40" /></a>
+ |  |  <a href="https://discord.com/channels/@saroarjahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saroar Jahan" height="30" width="40" /></a>
  | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/> |
+| <a href="https://www.linkedin.com/in/saroar-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saroar Jahan" height="30" width="40" /></a> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/> |
  | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 </p>
 
