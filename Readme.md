@@ -46,19 +46,12 @@
 
 <br><br>
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saroar-git&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="saroar-git" /></p>
-
-<br>
-
 ##
 <div align="center" >
 <div>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saroar-git&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saroar-git&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saroar-git&theme=aura_dark&utcOffset=8)
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saroar-git&theme=aura_dark)
