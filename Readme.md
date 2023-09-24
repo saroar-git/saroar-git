@@ -7,9 +7,6 @@
 
 <br> <br>
 
-
-<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
-
 - 🌱 I’m currently learning **NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [Porifolio](https://saroar-jahan.netlify.app/).
@@ -18,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing).
 
-<h3 align="center">Connect with me:</h3>
+## <h3 align="center">Connect with me:</h3>
 <div align="center">
 
  | <a href="https://www.linkedin.com/in/saroar-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saroar Jahan" height="30" width="40" /></a> | <a href="https://wa.me/01615344922" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/whatsapp-vertical.svg?short_path=cf83b83" alt="Saroar Jahan" height="30" width="40" /></a> | <a href="https://discord.com/channels/@saroarjahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saroar Jahan" height="30" width="40" /></a> |
@@ -26,6 +23,9 @@
 </div>
 
 <br>
+
+
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
 
 ## Technologies I know:
