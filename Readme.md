@@ -1,9 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=500&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer)](https://git.io/typing-svg)
+
 ![A MERN-Stack Web Developer_](https://i.ibb.co/qpNPmc7/page-1.jpg)
 
 
-<h3 align="center">I am a MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Let's collaborate on your next project!</h3>
+<h3 align="center">I am a MERN-stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
 
-<br>
+<br> <br>
 
 
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=saroar-git&label=Profile%20views&color=0e75b6&style=flat" alt="saroar-git" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
