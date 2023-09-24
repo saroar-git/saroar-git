@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=500&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=1080&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer)](https://git.io/typing-svg)
 
 ![A MERN-Stack Web Developer_](https://i.ibb.co/qpNPmc7/page-1.jpg)
 
