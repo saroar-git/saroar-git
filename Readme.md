@@ -19,11 +19,11 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing).
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
 
  | <a href="https://www.linkedin.com/in/saroar-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saroar Jahan" height="30" width="40" /></a> | <a href="https://wa.me/01615344922" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/whatsapp-vertical.svg?short_path=cf83b83" alt="Saroar Jahan" height="30" width="40" /></a> | <a href="https://discord.com/channels/@saroarjahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saroar Jahan" height="30" width="40" /></a> |
  | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-</p>
+</div>
 
 <br>
 
