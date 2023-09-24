@@ -58,6 +58,7 @@
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saroar-git&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saroar-git&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saroar-git&theme=aura_dark&utcOffset=8)
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saroar-git&theme=aura_dark)
