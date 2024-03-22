@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=1080&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer)](https://git.io/typing-svg)
 
-![A React Developer_]([https://i.ibb.co/qpNPmc7/page-1.jpg])
+![A React Developer_](https://i.ibb.co/LnYHgtQ/White-Minimalist-Profile-Linked-In-Banner.png)
 
 
-<h3 align="center">I am a React developer with expertise in MongoDB, Express.js, React.js, and Node.js, JavaScript, TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
+<h3 align="center">I am a React developer with expertise in MongoDB, Express.js, React.js, Node.js, JavaScript, and TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
 
 <br> <br>
 
