@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=1080&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer)](https://git.io/typing-svg)
 
-![A MERN-Stack Web Developer_](https://i.ibb.co/qpNPmc7/page-1.jpg)
+![A React Developer_]([https://i.ibb.co/qpNPmc7/page-1.jpg])
 
 
-<h3 align="center">I am a MERN-stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
+<h3 align="center">I am a React developer with expertise in MongoDB, Express.js, React.js, and Node.js, JavaScript, TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, I create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
 
 <br> <br>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Porifolio](https://saroar-jahan.netlify.app/).
 
-- 💬 Ask me about **React, Tailwind, Express.js, Node.js, MongoDB**
+- 💬 Ask me about **React, Tailwind, Express.js, Node.js, MongoDB, JavaScript, TypeScript**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing).
 
