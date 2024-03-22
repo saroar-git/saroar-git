@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning   <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Saroar Jahan" height="50" width="50" />
 
-- 👨‍💻 All of my projects are available at   <a href="https://saroar-jahan.netlify.app/" target="_blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/p/portfolio.svg" alt="Saroar Jahan" height="40" width="60" /></a>
+- 👨‍💻 All of my projects are available at   <a href="https://saroar-jahan.netlify.app/" target="blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/p/portfolio.svg" alt="Saroar Jahan" height="40" width="60" /></a>
 
-- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="_blank"><img align="center" src="https://i.ibb.co/yW9QR1d/resume-icon-16.png" alt="Saroar Jahan" height="40" width="50" /></a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="blank"><img align="center" src="https://i.ibb.co/yW9QR1d/resume-icon-16.png" alt="Saroar Jahan" height="40" width="50" /></a>
 
 ## <h3 align="center">Connect with me:</h3>
 <div align="center">
