@@ -7,13 +7,13 @@
 
 <br> <br>
 
-- 🌱 I’m currently learning ![NEXT.JS](https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg)
+- 🌱 I’m currently learning <img align="center" src="[https://icon-library.com/icon/resume-icon-16.html.html](https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg)" alt="Saroar Jahan" height="50" width="50" />
 
-- 👨‍💻 All of my projects are available at <a href="https://saroar-jahan.netlify.app/" target="_blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/p/portfolio.svg" alt="Saroar Jahan" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://saroar-jahan.netlify.app/" target="_blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/p/portfolio.svg" alt="Saroar Jahan" height="50" width="50" /></a>
 
 - 💬 Ask me about **React, Tailwind, Express.js, Node.js, MongoDB, JavaScript, TypeScript**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="blank"><img align="center" src="https://icon-library.com/icon/resume-icon-16.html.html" alt="Saroar Jahan" height="30" width="40" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="_blank"><img align="center" src="https://i.ibb.co/yW9QR1d/resume-icon-16.png" alt="Saroar Jahan" height="30" width="40" /></a>
 
 ## <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -41,7 +41,7 @@
 ### ⚡Tools
 
 | <img src="https://github.com/detain/svg-logos/blob/master/svg/g/git.svg" alt="git" width="40"/> | <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github-light.svg" alt="github" width="40"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/f/figma-5.svg" alt="figma" width="40"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/v/visual-studio-code.svg" alt="vs code" width="40"/> <img src="https://github.com/detain/svg-logos/blob/master/svg/f/firebase-2.svg" alt="firebase" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/v/vercel.svg" alt="vercel" width="40"/> |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |  -------------------------------------------------------------------------- |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |  -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
 <br><br>
