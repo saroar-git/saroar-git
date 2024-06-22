@@ -3,15 +3,16 @@
 <a href="https://saroar-jahan.netlify.app/" target="blank"><img align="center" src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" /></a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>
 <h3 align="center">I am a React developer with expertise in MongoDB, Express.js, React.js, Node.js, JavaScript, and TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
 
-<br> <br>
+<br>
 
 - 🌱 I’m currently learning   <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Saroar Jahan" height="50" width="50" />
 
 - 👨‍💻 All of my projects are available at   <a href="https://saroar-jahan.netlify.app/" target="blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/p/portfolio.svg" alt="Saroar Jahan" height="40" width="60" /></a>
 
-- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="blank"><img align="center" src="https://i.ibb.co/yW9QR1d/resume-icon-16.png" alt="Saroar Jahan" height="40" width="50" /></a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1Fp3Pq5HopGmBpL43Hb5uTebNiwcaaah_/view?usp=sharing" target="blank"><img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/r/resume-grabber.svg" alt="Saroar Jahan" height="40" width="50" /></a>
 
 ## <h3 align="center">Connect with me:</h3>
 <div align="center">
