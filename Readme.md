@@ -2,7 +2,7 @@
 
 <a href="https://saroar-jahan.netlify.app/" target="blank"><img align="center" src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" /></a>
 
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">I am a React developer with expertise in MongoDB, Express.js, React.js, Node.js, JavaScript, and TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, create seamless user experiences. Looking forward to working with a collaborative multicultural team!</h3>
 
 <br> <br>
