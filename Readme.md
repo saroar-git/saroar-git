@@ -53,7 +53,7 @@
 
 #### ⚡ **Tools & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,postman" alt="tool-skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,chrome,netlify,vercel" alt="tool-skills" />
 </p>
 
 ---
