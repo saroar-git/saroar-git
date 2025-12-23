@@ -6,7 +6,7 @@
   <br/>
 
   <a href="https://saroar-portfolio.web.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" style="border-radius: 15px;" />
+    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" height="100%" style="border-radius: 15px;" />
   </a>
 
   <h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
@@ -53,7 +53,7 @@
 
 #### ⚡ **Tools & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,chrome,netlify,vercel" alt="tool-skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,chrome" alt="tool-skills" />
 </p>
 
 ---
