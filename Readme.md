@@ -2,6 +2,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&pause=1000&color=F7E600&center=true&vCenter=true&width=1080&lines=Md.+Saroar+Jahan;React+Developer;Frontend+Developer;MERN-Stack+Developer" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <a href="https://saroar-jahan.netlify.app/" target="blank">
+    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" style="border-radius: 10px;" />
+  </a>
 </div>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -33,15 +39,15 @@
 
 ---
 
-## 🛠 Technologies I know:
+## Technologies I know:
 
 ### ⚡ Frontend
 | <img src="https://github.com/detain/svg-logos/blob/master/svg/h/html-1.svg" width="40"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/c/css-3.svg" width="40"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/b/bootstrap-5-1.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/t/tailwind-css-1-2.svg" width="60"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/m/material-ui-1.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/r/react-1.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/r/redux.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/j/javascript-1.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### ⚡ Backend
-| <img src="https://github.com/detain/svg-logos/blob/master/svg/n/nodejs.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/m/mongodb-icon-1.svg" width="50"/> |
-| :---: | :---: | :---: |
+| <img src="https://github.com/detain/svg-logos/blob/master/svg/n/nodejs.svg" alt="nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/m/mongodb-icon-1.svg" alt="mongodb" width="50"/> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" width="50"/> |
+| :---: | :---: | :---: | :---: |
 
 ### ⚡ Tools
 | <img src="https://github.com/detain/svg-logos/blob/master/svg/g/git.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/f/figma-5.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/v/visual-studio-code-1.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/f/firebase-2.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50"/> | <img src="https://github.com/detain/svg-logos/blob/master/svg/v/vercel.svg" width="50"/> |
@@ -51,28 +57,22 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" >
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saroar-git&theme=aura_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saroar-git&theme=aura_dark" />
-  <br>
+  <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saroar-git&theme=aura_dark" width="100%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroar-git&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br>
 
 ---
 
-## 📈 Contribution Graph
-![Saroar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saroar-git&theme=react-dark)
-
-<br>
-
+## 📈 Activity & Contribution
 <div align="center">
-  <a href="https://saroar-jahan.netlify.app/" target="blank">
-    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" style="border-radius: 10px;" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saroar-git&theme=react-dark" width="100%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroar-git&theme=tokyonight" alt="GitHub Streak" />
 </div>
