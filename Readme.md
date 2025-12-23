@@ -32,7 +32,7 @@
 ### 🚀 At a Glance
 
 <div align="left">
- <a href="https://app.daily.dev/mdsaroarjahan"><img align="right" src="https://api.daily.dev/devcards/v2/GUWaTHRknqMFLGUSeDgpV.png?type=default&r=b0h" width="356" alt="MD. SAROAR JAHAN's Dev Card"/></a>
+ <a href="https://app.daily.dev/mdsaroarjahan"><img align="right" src="https://api.daily.dev/devcards/v2/GUWaTHRknqMFLGUSeDgpV.png?type=default&r=b0h" width="150" alt="MD. SAROAR JAHAN's Dev Card"/></a>
 </div>
 
 - **Current Focus:** Building high-performance MERN applications.
