@@ -34,10 +34,11 @@
  <a href="https://app.daily.dev/mdsaroarjahan"><img align="right" src="https://api.daily.dev/devcards/v2/GUWaTHRknqMFLGUSeDgpV.png?type=default&r=b0h" width="200" alt="MD. SAROAR JAHAN's Dev Card"/></a>
 
 - **Current Focus:** Building high-performance MERN applications.
-- **Learning:** Mastering **Next.js**. <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
 - **Resulation:** Looking for collaboration with some amazing Tech People
-- **Portfolio:** Explore my work at [saroar-portfolio.web.app](https://saroar-portfolio.web.app)
-- **Resume/CV:** [My Professional CV](https://drive.google.com/file/d/1atdHFteROsgdc_GZIA_EiFDRYzXw3Xn3/view?usp=sharing)
+- **Project:** One of my best projects here [Rajshahi University Education Club](https://ruec.org)
+- **Learning:** Mastering **Next.js**. <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
+- **Portfolio:** Explore my work at [Saroar's Portfolio](https://saroar-portfolio.web.app)
+- **Resume/CV:** [Professional CV](https://drive.google.com/file/d/1atdHFteROsgdc_GZIA_EiFDRYzXw3Xn3/view?usp=sharing)
 
 ---
 
