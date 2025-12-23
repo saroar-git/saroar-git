@@ -5,9 +5,11 @@
 
   <br/>
 
+ <div align="end">
   <a href="https://saroar-portfolio.web.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" height="100%" style="border-radius: 15px;" />
+    <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" />
   </a>
+</div>
 
   <h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
