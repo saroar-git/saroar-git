@@ -31,6 +31,10 @@
 
 ### 🚀 At a Glance
 
+<div align="left">
+ <a href="https://app.daily.dev/mdsaroarjahan"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="200" alt="Saroar's Dev Card"/></a>
+</div>
+
 - 🔭 **Current Focus:** Building high-performance MERN applications.
 - 🌱 **Learning:** Mastering **Next.js** for SSR & static generation. <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
 - 👨‍💻 **Portfolio:** Explore my work at [saroar-portfolio.web.app](https://saroar-portfolio.web.app)
