@@ -35,11 +35,11 @@
 
 - **Current Focus:** Building high-performance MERN applications.
 - **Resulation:** Looking for collaboration with some amazing Tech People
-- **Project:** One of my best projects here [Rajshahi University Education Club](https://ruec.org)
 - **Learning:** Mastering **Next.js**. <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
+- **Project:** One of my best projects here [Rajshahi University Education Club](https://ruec.org)
 - **Portfolio:** Explore my work at [Saroar's Portfolio](https://saroar-portfolio.web.app)
 - **Resume/CV:** [Professional CV](https://drive.google.com/file/d/1atdHFteROsgdc_GZIA_EiFDRYzXw3Xn3/view?usp=sharing)
-
+<br>
 ---
 
 ### 🛠️ Professional Toolbox
