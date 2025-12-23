@@ -9,12 +9,15 @@
     <img src="https://i.ibb.co/g96v4xF/Linked-In-Banner.png" alt="Saroar Jahan" width="100%" style="border-radius: 15px;" />
   </a>
 
-  <br/>
-
   <h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
+  <p align="center">
+    <kbd><b>MERN Stack Developer</b></kbd> • <kbd><b>UI/UX Enthusiast</b></kbd> • <kbd><b>Next.js Learner</b></kbd>
+  </p>
+
   <h3 align="center">
-    I am a React developer with expertise in MongoDB, Express.js, React.js, Node.js, JavaScript, and TypeScript. I specialize in building scalable and efficient web applications. With a focus on clean code and modern technologies, create seamless user experiences. Looking forward to working with a collaborative multicultural team!
+    Expertise in crafting scalable, efficient web applications using MongoDB, Express, React, and Node.js. 
+    Focused on clean architecture and delivering seamless user experiences in multicultural environments.
   </h3>
 
   <p align="center"> 
@@ -28,8 +31,9 @@
 
 ### 🚀 At a Glance
 
-- 🌱 **Currently learning:** Next.js <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
-- 👨‍💻 **Portfolio:** [saroar-portfolio.web.app](https://saroar-portfolio.web.app)
+- 🔭 **Current Focus:** Building high-performance MERN applications.
+- 🌱 **Learning:** Mastering **Next.js** for SSR & static generation. <img align="center" src="https://github.com/detain/svg-logos/blob/master/svg/n/next-js.svg" alt="Next.js" height="25" />
+- 👨‍💻 **Portfolio:** Explore my work at [saroar-portfolio.web.app](https://saroar-portfolio.web.app)
 - 📄 **Resume:** [My Professional CV](https://drive.google.com/file/d/1atdHFteROsgdc_GZIA_EiFDRYzXw3Xn3/view?usp=sharing)
 
 ---
@@ -57,7 +61,8 @@
 ### 🤝 Connect with me:
 <div align="center">
   <a href="https://www.linkedin.com/in/saroar-in/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;
   <a href="https://wa.me/8801615344922" target="_blank" rel="noopener noreferrer">
@@ -96,5 +101,7 @@
 <br/>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
   <b>Happy Coding!</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </div>
